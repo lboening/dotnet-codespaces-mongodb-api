@@ -1,4 +1,12 @@
-# GitHub Codespaces ♥️ .NET
+# Synopsis
+
+The following is based on GitHub codespaces
+
+The intention is to run MongoDB somehow.
+
+Last update: 2025-03-19
+
+## GitHub Codespaces ♥️ .NET
 
 Want to try out the latest performance improvements coming with .NET for web development? 
 
